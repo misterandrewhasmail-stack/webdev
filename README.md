@@ -3,7 +3,7 @@
 
 ## A simple, interactive online store with an "Add to Cart" functionality. You can preview the demo and interact with the features right from your browser. Check out the live version:
 
-https://misterandrewhasmail.github.io/MockStore/
+https://misterandrewhasmail-stack.github.io/webdev/
 
 ## Running Locally
 **If you've downloaded the project as a ZIP and want to run it locally, follow the instructions below depending on your Python version.**
